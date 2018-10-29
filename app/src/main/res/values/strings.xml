@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent_TreeButton</string>
+    <string name="buttonSample">explicit intent(sample)</string>
+    <string name="buttonResult">explicit intent(result)</string>
+    <string name="buttonListView">explicit intent(list view)</string>
+</resources>
