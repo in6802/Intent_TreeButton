@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
-        // 인텐트 생성 밑 시작
+        // 인텐트 생성 및 시작
         Intent intent;
         intent = new Intent(this, ExplicitActivity.class);
         startActivity(intent);
